@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "firebasedemo"
+location: "europe-central2"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "firebasedemo-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]

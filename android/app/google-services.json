@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "932555800316",
+    "firebase_url": "https://firebase-all-features-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "firebase-all-features",
+    "storage_bucket": "firebase-all-features.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932555800316:android:2daf4a84729c8a51886179",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaDsmqzDRtJ-k0MXj42vICGV085aCsdf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
